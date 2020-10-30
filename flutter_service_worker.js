@@ -6,9 +6,9 @@ const RESOURCES = {
   "styles.css": "a6dbf0538ceebb3f4d359592d5dd244b",
 "version.json": "aaafa928a4f8616604eca12d830fe765",
 "manifest.json": "b362c007a3a960a42224c22db7fdb849",
-"main.dart.js": "974f625480c934ee87ff6b5c1a0adbc5",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"main.dart.js": "28215ebf7af759b94f2ee786f6a81281",
+"icons/Icon-192.png": "e6fabc88809b2f1fdeefb1c35f1b060a",
+"icons/Icon-512.png": "db5a136ed802c8d2f8750c51f4f486ef",
 "assets/fonts/FaSolid.otf": "f0687ede510cb0a3482f6b6e29a7a4d5",
 "assets/fonts/FaRegular.otf": "87c83fb3d7725b404b4758641c3a1571",
 "assets/fonts/FaBrands.otf": "1777120fa322c110e424ef10b6ee936a",
@@ -63,9 +63,9 @@ const RESOURCES = {
 "assets/images/fitnesslanka0.jpg": "4981d6925b1b614f39b271b42886c17f",
 "assets/FontManifest.json": "4f1372d48986d16acad7de047063c606",
 "assets/NOTICES": "610a432270669b9bbeb5d7e3635b3cfc",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "04281f258a5dd1cc40af2cd067add5e5",
-"/": "04281f258a5dd1cc40af2cd067add5e5"
+"favicon.png": "e5db81e8c191d2df43756cc56dbd37ae",
+"index.html": "bde8a9d20af394f2401f5a6fcecd0c66",
+"/": "bde8a9d20af394f2401f5a6fcecd0c66"
 };
 
 // The application shell files that are downloaded before a service worker can
