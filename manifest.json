@@ -1,11 +1,11 @@
 {
-    "name": "my_portfolio",
-    "short_name": "my_portfolio",
+    "name": "Udara Wanasinghe",
+    "short_name": "Udara Wanasinghe",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Udara Wanasinghe's portfolio.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
